@@ -1,0 +1,17 @@
+{
+  "name": "thatskyoutfitapi",
+  "version": "1.0.0",
+  "description": "This is an API to query clothes and accessories from the game Sky: Children of the Light.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
